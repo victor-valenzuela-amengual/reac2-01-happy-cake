@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react2-01-happy-cake/static/css/main.c2cab247.css",
+    "main.js": "/react2-01-happy-cake/static/js/main.f0ccff0a.js",
+    "index.html": "/react2-01-happy-cake/index.html",
+    "main.c2cab247.css.map": "/react2-01-happy-cake/static/css/main.c2cab247.css.map",
+    "main.f0ccff0a.js.map": "/react2-01-happy-cake/static/js/main.f0ccff0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.f0ccff0a.js"
+  ]
+}
