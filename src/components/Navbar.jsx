@@ -14,7 +14,7 @@ export default function Navigation() {
                     </Link>
                 </Container>
                 <Navbar.Brand className="me-5">                    
-                    <Link to="/" className="text-white ms-3 text-decoration-none">
+                    <Link to="/react2-01-happy-cake" className="text-white ms-3 text-decoration-none">
                     <i className="fa-solid fa-cake-candles"></i><span className="ms-2">Torta Feliz</span> 
                     </Link>
                 </Navbar.Brand>
