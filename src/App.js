@@ -13,7 +13,7 @@ function App() {
       <BrowserRouter>
         <Navbar/>
         <Routes>
-          <Route path="/react2-01-happy-cake" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/contacto" element={<Contacto />} />
           <Route path="/registro" element={<Registro />} />          
           <Route path="*" element={<NotFound />} />
